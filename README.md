@@ -1,43 +1,103 @@
-# ¡Hola! 👋 Soy Laura Motato Moreno
+# 👋 Hola, soy Laura Motato
 
-## 💻 Sobre mí
+Bienvenido a mi GitHub.
 
-Soy estudiante y desarrolladora en formación, apasionada por la tecnología y el aprendizaje continuo.
-
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo Full Stack, lógica de programación y herramientas que me permitan construir aplicaciones modernas y escalables.
+Más que un lugar donde almaceno código, este espacio representa mi proceso de aprendizaje, los proyectos que construyo y el camino que estoy recorriendo para convertirme en una mejor desarrolladora.
 
 ---
 
-## 🚀 Actualmente estoy aprendiendo
+# 🌱 Un poco sobre mí
 
-- 🌱 JavaScript
-- 🔷 TypeScript
-- ⚛️ React
-- 🟢 Node.js
-- 🗄️ SQL
-- 🧩 Lógica de programación
-- 🌐 Git y GitHub
-- 📈 Marketing Digital
+Soy una persona curiosa por naturaleza.
 
----
+Me gusta aprender constantemente, compartir lo que sé y enfrentar nuevos retos. Disfruto descubrir cómo funcionan las cosas.
 
-## 🎯 Mis objetivos
+Fuera del mundo de la programación también disfruto leer, hacer manualidades, practicar senderismo, correr, patinar, bailar y mantenerme activa. Todas esas actividades tienen algo en común: siempre me enseñan algo nuevo.
 
-- Construir proyectos Full Stack.
-- Compartir mi proceso de aprendizaje.
-- Aplicar buenas prácticas de desarrollo.
-- Crear un portafolio profesional.
+Me considero una persona auténtica, responsable y respetuosa, que disfruta trabajar con personas que también tengan ganas de aprender y crecer.
 
 ---
 
-## 📂 Próximamente encontrarás
+# 💻 Mi historia con la programación
 
-- 🚀 Proyectos Full Stack
-- 📚 Ejercicios de JavaScript
-- 🧩 Retos de lógica
-- 🗄️ Prácticas de SQL
-- 📈 Recursos de Marketing
+Llegué al desarrollo de software por simple curiosidad.
+
+Cuando empecé no conocía prácticamente nada sobre tecnología. Fue un proceso difícil y hubo momentos en los que pensé que no sería capaz de entender muchas cosas.
+
+Con el tiempo descubrí que, detrás de cada problema resuelto, había algo nuevo por aprender, y eso hizo que la programación se convirtiera en esa profesión que queria para toda mi vida.
+
+Aunque mi mayor interés está en el desarrollo Backend, también he trabajado con tecnologías Frontend, diseño de bases de datos y consultas SQL, porque creo que entender el contexto es la base para
+
+lograr mejores desarrollos.
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+# 🚀 Lo que estoy construyendo
+
+Me encuentro fortaleciendo mis conocimientos en tecnologías que tienen una gran demanda en el mercado y que me permitan desarrollar aplicaciones modernas y escalables.
+
+Entre ellas:
+
+- Java
+- Python
+- JavaScript
+- Node.js
+- Next.js
+- SQL
+- Git y GitHub
+
+Pero actualmente también trabajo con estas tecnologias:
+
+- Laravel
+- Angular
+- Vue.js
+- TypeScript
+- PostgreSQL
+
+---
+
+# 🎯 Mi propósito
+
+Aspiro a crecer tanto profesional como personalmente.
+
+Quiero construir una carrera que me permita participar en proyectos que generen impacto, seguir aprendiendo todos los días, ayudar a mi familia y tener la oportunidad de conocer diferentes lugares del mundo.
+
+---
+
+# 📚 ¿Qué encontrarás en este perfil?
+
+Aquí iré documentando todo mi proceso de aprendizaje.
+
+📂 Proyectos Full Stack
+
+🧩 Ejercicios de lógica
+
+📖 Apuntes técnicos
+
+🗄️ Bases de datos y SQL
+
+🌐 Desarrollo Frontend
+
+⚙️ Desarrollo Backend
+
+📈 Recursos y aprendizajes relacionados con marketing
+
+No te puedo prometer orden y perfección pero sin duda alguna vas a poder observar desde cerca mi proceso.
+
+---
+
+# 🌱 Actualmente
+
+🧩 Fortaleciendo lógica de programación con JavaScript
+
+🏗️ Construyendo proyectos Full Stack
+
+📚 Mejorando mis conocimientos en arquitectura y buenas prácticas
+
+---
+
+## 🤝 Gracias por pasar por aquí
+
+Siempre estoy abierta a aprender, colaborar y seguir creciendo.
+
+Espero que disfrutes explorando mis proyectos tanto como yo disfruté construyéndolos.
