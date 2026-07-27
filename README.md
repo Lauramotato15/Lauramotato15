@@ -2,7 +2,7 @@
 
 Bienvenido a mi GitHub.
 
-Más que un lugar donde almaceno código, este espacio representa mi proceso de aprendizaje, los proyectos que construyo y el camino que estoy recorriendo para convertirme en una mejor desarrolladora.
+Más que un lugar donde almaceno código, este espacio representa mi proceso de aprendizaje, los proyectos que construyo y el camino que estoy recorriendo para mejorar cada día más.
 
 ---
 
@@ -42,7 +42,6 @@ Entre ellas:
 - Node.js
 - Next.js
 - SQL
-- Git y GitHub
 
 Pero actualmente también trabajo con estas tecnologias:
 
@@ -51,6 +50,7 @@ Pero actualmente también trabajo con estas tecnologias:
 - Vue.js
 - TypeScript
 - PostgreSQL
+- Git y GitHub
 
 ---
 
