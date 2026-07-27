@@ -26,9 +26,7 @@ Cuando empecé no conocía prácticamente nada sobre tecnología. Fue un proceso
 
 Con el tiempo descubrí que, detrás de cada problema resuelto, había algo nuevo por aprender, y eso hizo que la programación se convirtiera en esa profesión que queria para toda mi vida.
 
-Aunque mi mayor interés está en el desarrollo Backend, también he trabajado con tecnologías Frontend, diseño de bases de datos y consultas SQL, porque creo que entender el contexto es la base para
-
-lograr mejores desarrollos.
+Aunque mi mayor interés está en el desarrollo Backend, también he trabajado con tecnologías Frontend, diseño de bases de datos y consultas SQL, porque creo que entender el contexto es la base para lograr mejores desarrollos.
 
 ---
 
