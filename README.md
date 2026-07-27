@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Laura Motato Moreno
 
-<!--
-**Lauramotato15/Lauramotato15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante y desarrolladora en formación, apasionada por la tecnología y el aprendizaje continuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo Full Stack, lógica de programación y herramientas que me permitan construir aplicaciones modernas y escalables.
+
+---
+
+## 🚀 Actualmente estoy aprendiendo
+
+- 🌱 JavaScript
+- 🔷 TypeScript
+- ⚛️ React
+- 🟢 Node.js
+- 🗄️ SQL
+- 🧩 Lógica de programación
+- 🌐 Git y GitHub
+- 📈 Marketing Digital
+
+---
+
+## 🎯 Mis objetivos
+
+- Construir proyectos Full Stack.
+- Compartir mi proceso de aprendizaje.
+- Aplicar buenas prácticas de desarrollo.
+- Crear un portafolio profesional.
+
+---
+
+## 📂 Próximamente encontrarás
+
+- 🚀 Proyectos Full Stack
+- 📚 Ejercicios de JavaScript
+- 🧩 Retos de lógica
+- 🗄️ Prácticas de SQL
+- 📈 Recursos de Marketing
+
+---
+
+⭐ Gracias por visitar mi perfil.
